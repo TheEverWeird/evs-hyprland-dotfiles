@@ -2,6 +2,13 @@
 These are my dotfiles for hyprland and other utilities.
 I wouldn't be suprised if something doesn't work as I'm quite new to Linux so use at your own risk, but so far it's working well enough for me on [my system](./system.txt).
 
+### Examples of the desktop
+![Example One](./screenshots/Example1.png)
+![Example Two](./screenshots/Example2.png)
+
+### Example of hyprlock
+![hyprlock example](./screenshots/lockscreen.png)
+
 ## Theme
 These dotfiles are made with a cozy dark theme based on the Catppuccin Mocha palette with soft pastel highlights.
 
