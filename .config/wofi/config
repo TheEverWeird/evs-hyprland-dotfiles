@@ -1,0 +1,13 @@
+width=500
+height=400
+location=center
+show=drun
+prompt=Search...
+filter_title=true
+matching=fuzzy
+insensitive=true
+no_actions=true
+allow_images=true
+image_size=24
+term=kitty
+layer=overlay

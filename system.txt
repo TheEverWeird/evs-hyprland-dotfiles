@@ -1,0 +1,8 @@
+7600X
+Gigabyte B650 GAMING X AX (Realtek revision)
+ASUS ROG Strix NVIDIA RTX 4080 OC
+
+- Software
+Dualbooting Windows and Arch
+Arch (Linux Kernal 7.2.6-zen2-1-zen)
+Hyprland 0.56.2
